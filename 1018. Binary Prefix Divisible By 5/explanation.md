@@ -18,17 +18,17 @@ Return an array of booleans answer where `answer[i]` is `true` if `xi` is divisi
 ## Eg 1:
 nums = [0, 1, 1]
 
-0, 01, 011
-0, 1, 3
-`0 % 5`, `1 % 5`, `3 % 5`
+0, 01, 011 <br>
+0, 1, 3 <br>
+`0 % 5`, `1 % 5`, `3 % 5` <br>
 true, false, false
 
 ## Eg 2:
 nums = [1, 1, 1]
 
-1, 11, 111
-1, 3, 7
-`1 % 5`, `3 % 5`, `7 % 5`
+1, 11, 111 <br>
+1, 3, 7 <br>
+`1 % 5`, `3 % 5`, `7 % 5` <br>
 false, false, false
 
 ## Binary to decimal calculation
